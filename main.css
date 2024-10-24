@@ -48,3 +48,7 @@ h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visit
 	color: #553838;
 	text-decoration: none;
 }
+
+span.drug-name {
+	font-weight: bold;
+}

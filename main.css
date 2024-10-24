@@ -34,3 +34,7 @@ hr.styled.bottom {
 	margin-top: 2em;
 }
 p.passage { margin-left: 2em; margin-right: 2em; }
+
+a, a:link, a:visited { color: brown; }
+a:hover  { color: orange; }
+a:active { color: white;  }

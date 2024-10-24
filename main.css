@@ -38,3 +38,11 @@ p.passage { margin-left: 2em; margin-right: 2em; }
 a, a:link, a:visited { color: brown; }
 a:hover  { color: orange; }
 a:active { color: white;  }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link,
+h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited
+{
+	color: #553838;
+	text-decoration: none;
+}

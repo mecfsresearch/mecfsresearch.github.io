@@ -55,3 +55,7 @@ span.drug-name {
 p.footer {
 	text-align:right; padding: 0; margin:0; font-size:80%;
 }
+
+ul.level1 li {
+	margin-bottom: 1.33em;
+}
